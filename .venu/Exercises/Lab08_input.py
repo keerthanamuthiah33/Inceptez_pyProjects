@@ -74,3 +74,7 @@ else:
     print(f"Both students have equal marks: {totalmarks1}")
 
 
+print("This is to test Git Repository")
+
+
+
